@@ -21,5 +21,3 @@ Password: password
 - Remove Car
 - Rent a Car
 - Show Rent Records
-
-# Car-rental-system
